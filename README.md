@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: A new version of MS Planner Archiver<br>🌱 I’m currently learning: OpenAI's API<br>💬 Ask me about: SQL<br>⚡ Fun fact: I self taught myself to code
+🔭 I’m currently working on: A new version of MS Planner Archiver<br>🌱 I’m currently learning: OpenAI's API<br>💬 Ask me about: SQL<br>⚡ Fun fact: I taught myself to code
 
 
 # 💻 Tech Stack:
@@ -12,8 +12,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ethanwood3305&icon=0&color=0)](https://visitcount.itsvg.in)
